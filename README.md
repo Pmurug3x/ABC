@@ -1,2 +1,2 @@
 # ABC
-Sample is ready
+Sample is ready to merge with b1
