@@ -1,2 +1,2 @@
 # ABC
-Sample
+Sample is ready
